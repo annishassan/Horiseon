@@ -26,7 +26,7 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-```.
+```
 
 ## Screenshots
 
@@ -40,8 +40,9 @@ THEN I find a concise, descriptive title
 
 # links
 
-- [github](https://github.com/annishassan/Horiseon/) 
-- [deployed](https://annishassan.github.io/Horiseon/)
+- Github here:  [https://github.com/annishassan/Horiseon/](https://github.com/annishassan/Horiseon/) 
+- Deployed here: [https://annishassan.github.io/Horiseon/](https://annishassan.github.io/Horiseon/)
+
 
 
 
