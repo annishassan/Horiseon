@@ -40,8 +40,8 @@ THEN I find a concise, descriptive title
 
 # links
 
-- [github](github) 
-- [deployed](deployed)
+- [github](https://github.com/annishassan/Horiseon/) 
+- [deployed](https://annishassan.github.io/Horiseon/)
 
 
 
